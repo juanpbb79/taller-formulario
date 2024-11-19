@@ -1,0 +1,16 @@
+{
+  "name": "-t",
+  "version": "1.0.0",
+  "main": "server (1).js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "juan pablo",
+  "license": "ISC",
+  "description": "servidor.express",
+  "repository": {
+    "type": "git",
+    "url": "taller.formulario"
+  }
+}
